@@ -1,1 +1,2 @@
 # Fake-News-Detection
+In this project, I build a model to accurately classify a piece of news as real or fake.
